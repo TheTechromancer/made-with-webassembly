@@ -1,7 +1,7 @@
 ---
 name: Darkly
 logo_url: https://github.com/user-attachments/assets/fd6c96e8-08e1-4f35-907c-581c87dabe83
-website: https://darkly.art
+website: https://demo.darkly.art
 source_url: https://github.com/darkly-art/darkly
 description: A GPU-native digital painting and image editor written in Rust, running in the browser with WebAssembly and WebGPU
 keywords: rust wasm webgpu wgpu painting art editor gpu graphics svelte applications production
